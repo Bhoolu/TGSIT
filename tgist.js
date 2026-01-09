@@ -25,7 +25,7 @@ document.querySelectorAll(".nav-link").forEach((link) => {
 
     switch (text) {
       case "home":
-        window.location.href = "/tgist.html"; // main homepage
+        window.location.href = "/index.html"; // main homepage
         break;
       case "about us":
         window.location.href = "/about.html"; // create about.html
