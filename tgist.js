@@ -24,7 +24,7 @@ document.querySelectorAll(".nav-link").forEach((link) => {
     const text = link.textContent.trim().toLowerCase();
 
     switch (text) {
-      case "home":
+      case "index":
         window.location.href = "/index.html"; // main homepage
         break;
       case "about us":
