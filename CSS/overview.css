@@ -9,7 +9,7 @@
 body {
   font-family: "Open Sans", sans-serif;
   /* Add your background image here */
-  background: url("./images/background-modern-technology-concept-cybersecurity-background_794573-7793\ -\ Copy.avif")
+  background: url("../Images/background-modern-technology-concept-cybersecurity-background_794573-7793\ -\ Copy.avif")
     no-repeat center center fixed;
   background-size: cover;
 }
@@ -222,7 +222,7 @@ button {
 /* Stats Section */
 .stats-section {
   background: rgba(10, 10, 46, 0.85);
-  padding: 5rem 3rem;
+  padding: 4rem 1rem;
   color: white;
 }
 
@@ -236,14 +236,14 @@ button {
 }
 
 .stat-item {
-  padding: 2rem;
+  padding: 1rem;
   background: rgba(255, 255, 255, 0.05);
   border-radius: 10px;
   backdrop-filter: blur(10px);
 }
 
 .stat-number {
-  font-size: 3.5rem;
+  font-size: 3.2rem;
   font-weight: bold;
   color: #00c6ff;
   margin-bottom: 0.5rem;

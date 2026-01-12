@@ -9,8 +9,8 @@
 body {
   font-family: "Open Sans", sans-serif;
   /* Add your background image here */
-  background: url("YOUR_IMAGE_PATH_HERE.jpg") no-repeat center center fixed;
-  background-size: cover;
+  /* background: url("YOUR_IMAGE_PATH_HERE.jpg") no-repeat center center fixed;
+  background-size: cover; */
 }
 
 h1,
@@ -102,78 +102,6 @@ button {
 .nav-link:hover {
   color: #00c6ff;
 }
-
-/* Header Styles
-.header {
-  background: linear-gradient(
-    135deg,
-    rgba(26, 26, 61, 0.95) 0%,
-    rgba(10, 10, 46, 0.95) 100%
-  );
-  padding: 2rem;
-  position: relative;
-  z-index: 1;
-}
-
-.navbar {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  flex-wrap: wrap;
-  position: relative;
-  z-index: 2;
-}
-
-.logo-container {
-  display: flex;
-  align-items: center;
-  gap: 1rem;
-}
-
-.logo-icon {
-  height: 60px;
-  width: auto;
-  border-radius: 50%;
-}
-
-.logo-text {
-  color: white;
-  font-size: 1.2rem;
-  line-height: 1.4;
-}
-
-.logo-text small {
-  font-size: 0.85rem;
-  color: #eee;
-  font-style: italic;
-}
-
-.logo-text .tagline {
-  font-size: 0.75rem;
-  color: #ccc;
-}
-
-.nav-menu {
-  display: flex;
-  gap: 2rem;
-  list-style: none;
-  margin-left: auto;
-}
-
-.nav-link {
-  color: white;
-  text-decoration: none;
-  font-weight: bold;
-  transition: color 0.3s ease;
-}
-
-.nav-link:hover {
-  color: #00c6ff;
-}
-
-.nav-link.active {
-  color: #00c6ff;
-} */
 
 /* Hero Section */
 .clients-hero {
